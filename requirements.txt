@@ -1,0 +1,11 @@
+
+# Essential packages
+streamlit==1.23.1
+altair==5.0.1
+pandas==1.5.3
+numpy==1.24.3
+scikit-learn==1.3.2
+streamlit-option-menu==0.3.2
+# Additional packages (if applicable)
+matplotlib==3.6.2
+seaborn==0.12.2
